@@ -1,2 +1,3 @@
-# Gerenciamento_de_Projeto_de_Software
-Gerenciamento De Projeto De Software
+-   COD: 46510-04
+-   Disciplina: Gerenciamento De Projeto De Software
+-   Professor: [Rafael Prikladnicki](https://www.pucrs.br/pesquisadores/rafael-prikladnicki/)
