@@ -1,4 +1,4 @@
-## Aula 03 - 18/08/2023
+## Aula 05 e 06 - 01/09/2023 e 08/09/2023
 
 
 ### Trabalho de Aula
@@ -48,6 +48,34 @@ Nome | Desenho | Perfil | Características | Necessidades
 João | <img alt="João" src="joao.png" width=25 height=25 /> | Escritor | 20 anos, estudante de letras, gosta de escrever histórias de ficção, tem dificuldade em publicar seus textos | Publicar seus textos
 Maria | <img alt="Maria" src="maria.png" width=25 height=25 /> | Leitora | 17 anos, estudante de ensino médio, gosta de ler histórias de romance, tem dificuldade em encontrar histórias que gosta | Encontrar histórias que gosta
 José | <img alt="José" src="jose.png" width=25 height=25 /> | Escritor | 30 anos, professor de português, gosta de escrever histórias de terror, adora receber feedbacks sobre suas obras | Discutir sobre seus textos
+
+#### Persona x Objetivo
+
+- | Persona 1 | Persona 2 | Persona 3
+--- | --- | --- | ---
+Objetivo 1 | X | X | X
+Objetivo 2 | X | X | X
+Objetivo 3 | X | X | X
+
+- | João | Maria | José
+--- | --- | --- | ---
+Tornar maior o alcance de autores inexperientes | X | X | X
+Tornar mais acessivel o acesso a projetos inependentes | X | X | X
+Permitir que o usuário possa interagir com outros usuários. |  | X | X
+
+#### Histórias de Usuário
+
+##### Template
+
+```
+   Como uma [persona],
+   quero [funcionalidade],
+   para [objetivo].
+```
+
+- Como um escritor, eu quero poder publicar meus textos, para que eu possa compartilhar com outros usuários.
+- Como um leitor, eu quero poder encontrar histórias que gosto, para que eu possa ler.
+- Como um escritor, eu quero poder receber feedbacks sobre minhas obras, para que eu possa melhorar.
 
 #### Grupo
 
