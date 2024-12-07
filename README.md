@@ -1,3 +1,5 @@
 | Disciplina | Professor | Semestre Previsto | Ano Cursada | Grau Obtido | CodiCred | Carga Horária |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gerenciamento De Projeto De Software | [Rafael Prikladnicki](https://www.pucrs.br/pesquisadores/rafael-prikladnicki/) | 5º | 2023/2 | 8.6 | 46510-04 | 60 |
+
+[Google Drive](https://drive.google.com/drive/folders/1Khd70FLyQwAxaXIuDNzaQYBHlFyTycsG?usp=sharing)
